@@ -2,6 +2,7 @@ package org.springfield.lou.euscreen.config;
 
 public enum ConfigEnvironment {
 	
+	//Places where the config should be for each environment. 
 	DEVEL("/domain/euscreenxl/config/config_devel"),
 	PROD("/domain/euscreenxl/config/config_prod");
 	
